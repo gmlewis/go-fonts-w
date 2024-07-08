@@ -1,6 +1,6 @@
-module github.com/gmlewis/go-fonts-w/fonts/woodennickelblack
+module github.com/gmlewis/go-fonts-w/fonts/wolveslower
 
-go 1.22.4
+go 1.22.5
 
 require github.com/gmlewis/go-fonts v0.19.0
 
